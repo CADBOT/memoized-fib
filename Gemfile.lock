@@ -7,5 +7,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  minitest
+  minitest (~> 5.3)
   rake
